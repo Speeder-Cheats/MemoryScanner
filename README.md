@@ -1,6 +1,7 @@
 # MemoryScanner
 
 🔍 What is Speeder Memory Scanner?
+
 Speeder Memory Scanner (https://speedercheats.vip/speeder-memory-scanner/) is a cutting-edge memory manipulation tool designed to bypass anti-cheat systems like Easy Anti-Cheat, BattlEye, and Xigncode. It empowers users to scan, analyze, and modify the memory of 64-bit games and applications, providing unparalleled control and customization. Whether you're a game hacker, modder, or reverse engineer, Speeder offers the precision and stealth you need.
 
 🛡️ Key Features
@@ -40,4 +41,5 @@ Authentic Input Simulation: Simulated inputs mimic real keyboard and mouse actio
 Minimal Footprint: No GUI controls or suspicious strings present in the scanner.
 
 📥 Get Started
+
 https://speedercheats.vip/speeder-memory-scanner/
