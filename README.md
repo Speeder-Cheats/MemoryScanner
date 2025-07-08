@@ -39,3 +39,7 @@ Speeder Memory Scanner (https://speedercheats.vip/speeder-memory-scanner/) is a 
 ## 📥 Get Started
 
 https://speedercheats.vip/speeder-memory-scanner/
+
+## Other Projects
+
+https://speedercheats.vip
